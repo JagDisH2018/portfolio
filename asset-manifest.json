@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dcb59e61.css",
-    "main.js": "/portfolio/static/js/main.b6a3b793.js",
+    "main.js": "/portfolio/static/js/main.f5ab725e.js",
     "static/media/port2.jpg": "/portfolio/static/media/port2.14ece24fd128604596a3.jpg",
     "static/media/port5.jpg": "/portfolio/static/media/port5.6d677978802316c76de0.jpg",
     "static/media/port3.jpg": "/portfolio/static/media/port3.79ef7989dfe6f3495bdd.jpg",
@@ -14,14 +14,14 @@
     "static/media/jdk.jpg": "/portfolio/static/media/jdk.858ea89272f4ffa99555.jpg",
     "static/media/port6.jpg": "/portfolio/static/media/port6.3d9d7314c6adedab882f.jpg",
     "static/media/avt2.jpg": "/portfolio/static/media/avt2.7928af726c991bd0b2ce.jpg",
-    "static/media/Jagdish_Surin.pdf": "/portfolio/static/media/Jagdish_Surin.f9666b56502d5f153c2d.pdf",
+    "static/media/Jagdish_Surin.pdf": "/portfolio/static/media/Jagdish_Surin.aba515a871e6b9dd8034.pdf",
     "static/media/black.jpg": "/portfolio/static/media/black.5989b5fd1414c872748f.jpg",
     "index.html": "/portfolio/index.html",
     "main.dcb59e61.css.map": "/portfolio/static/css/main.dcb59e61.css.map",
-    "main.b6a3b793.js.map": "/portfolio/static/js/main.b6a3b793.js.map"
+    "main.f5ab725e.js.map": "/portfolio/static/js/main.f5ab725e.js.map"
   },
   "entrypoints": [
     "static/css/main.dcb59e61.css",
-    "static/js/main.b6a3b793.js"
+    "static/js/main.f5ab725e.js"
   ]
 }
